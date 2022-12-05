@@ -1,5 +1,9 @@
 # Changelog
 
+## **2022.11.29-0.2.6** - 2022-12-05
+
+- Sunsynk Add-On: Update Environment Sensor to point to register 319
+
 ## **2022.11.29-0.2.5** - 2022-11-29
 
 - Sunsynk Dev Add-On: Update apparent_power
