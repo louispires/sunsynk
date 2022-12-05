@@ -136,7 +136,7 @@ _SENSORS += (
     SDStatusSensor(92, "SD Status", ""),  # type: ignore
     SerialSensor((3, 4, 5, 6, 7), "Serial"),
     TempSensor(90, "DC transformer temperature", CELSIUS, 0.1),
-    TempSensor(95, "Environment temperature", CELSIUS, 0.1),
+    TempSensor(319, "Environment temperature", CELSIUS, 0.1),
     TempSensor(91, "Radiator temperature", CELSIUS, 0.1),
     Sensor(194, "Grid Connected Status"),
 )
