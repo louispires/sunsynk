@@ -327,7 +327,7 @@ def _deprecated() -> None:
         "dc_transformer_temperature": TempSensor(
             90, "Temp DC transformer", CELSIUS, 0.1
         ),
-        "environment_temperature": TempSensor(95, "Temp Environment", CELSIUS, 0.1),
+        "environment_temperature": TempSensor(319, "Temp Environment", CELSIUS, 0.1),
         "grid_charge_battery_current": Sensor(230, "Battery Grid Charge", AMPS, -1),
         "grid_ct_power": Sensor(172, "Grid CT load", WATT, -1),
         "grid_l2_power": Sensor(168, "Grid L2 load", WATT, -1),
